@@ -38,13 +38,6 @@ body,
   left: 30px;
 }
 
-.searchbar {
-  position: absolute;
-  top: 30px;
-  grid-column-start: 3;
-  align-self: center;
-}
-
 .rebus {
   background-color: #1542e642;
   grid-column-start: 3;
